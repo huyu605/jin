@@ -1,5 +1,5 @@
 import React from "react";
-import Route from 'Router';
+import Route from "react-router-dom";
 
 const Square = props => {
   return (
